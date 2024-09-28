@@ -27,5 +27,5 @@ One of my favorite quotes, and something that helps me stay focused throughout m
 ## Interesting Websites
 I **highly** recommend your local library website. It is an invaluable resource for borrowing e-books. [Here is the website for information on my local library e-book lending program.](https://www.wake.gov/departments-government/libraries/e-books-downloads) 
 
-This is a little website I created after I decided to purchase my own domain name for various reasons, [Wesley's Wonderland](www.wesleyswonderland.com).  
+This is a little website I created after I decided to purchase my own domain name for various reasons, [Wesley's Wonderland](https://wesleyswonderland.com/).  
 **_Please note that the website may contain some curse words._**
